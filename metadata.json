@@ -1,5 +1,6 @@
 {
   "name": "3D Cost Calc Pro",
   "description": "Calculadora profissional de precificação para impressão 3D com análise detalhada de custos, margem e lucro.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [],
+  "majorCapabilities": []
 }
